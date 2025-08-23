@@ -1,1 +1,248 @@
-C:\Users\user\Documents\Training\style.css
+.navbar{
+   padding-left: 24px;
+   padding-right: 24px;
+    width: 1392px;
+    height:40px;
+    background-color: #0B0121;
+    margin-left: 170px;
+}
+
+.navbar-cont{
+    width: 1200px;
+    height: 72px;
+    margin-left: -90px;
+    float: right;
+  font-family: 'Montserrat';
+  padding-right: -250px; 
+}
+
+.chic a {
+    color: #ececec;
+    line-height: 150%;
+    font-weight: 400px;
+    text-decoration: none;
+    opacity: 0.9;
+   letter-spacing: 0.5px;
+   margin-left: 55px;
+   padding-left: 30px;
+   float: right;
+   flex-direction: row-reverse;
+}
+.chico{
+   border: 2px;
+border-radius: 50px;
+ background-color: white;
+color:blue ; 
+opacity: 2;
+}
+.coll{
+     border: 2px;
+border-radius: 50px;
+}
+
+.sp{
+     background-color: white;
+color: black;
+ width: 189px; 
+ height: 40; 
+border: 2px;
+border-radius: 50px; 
+padding: 6px; 20px;
+text-decoration:none;
+float: right;
+}
+.navbar a:last-child {
+    border: 1px;
+    border-radius: 50px;
+    width: 173px;
+    height: 40;
+    padding: 8px ;20px ;
+}
+.num{
+    padding: 170px;20px;80px;20px;
+    margin-top:-204px;
+    width: 1440px;
+    height: 1400px;
+}
+.nume{
+    width: 417.62px;
+    height: 10px;
+    margin-bottom: -30px;
+    position: absolute;
+}
+.app{
+    position: absolute;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 179px;
+    padding-left: 240px;
+}
+.coc{
+    font-size:80px ;
+    letter-spacing: -3%;
+    line-height: 100%;
+    font-style: medium ;
+    text-align: center;
+    weight: 500px;
+    color:  #ECECEC ;
+       font-family: 'Montserrat';
+     white-space: pre-line;
+     opacity: 0.8;
+}
+
+.cod{
+    font-size:  18px ;
+    letter-spacing: 0%;
+    line-height: 160%;
+    font-style: regular ;
+    text-align: center;
+    weight: 400px;
+     color: rgba(236, 236, 236, 0.65);
+   margin-top: 24px;
+      font-family: 'Montserrat';
+opacity: 0.5;
+}
+.coe{
+    font-size:  17.33px ;
+    letter-spacing: 0%;
+    line-height: 150%;
+    font-style: regular ;
+    text-align: center;
+    weight: 400px;
+     color:rgba(242, 244, 248, 1);
+   font-family: 'Montserrat';
+   opacity: 0.8;
+}
+.fri{
+    width: 394px;
+    height: 64px;
+    padding-top: 16px;
+    margin-left: 50px;
+   font-family: 'Montserrat';
+
+}
+  .fri a {
+    margin-left: 200px; 
+
+    }
+
+.sur{
+    background-color: white;
+color: black;
+ width: 189px; 
+ height: 40; 
+border: 2px;
+border-radius: 50px; 
+padding: 6px; 20px;
+text-decoration:none; 
+}
+
+
+.vimo{
+   width:960px;
+    height: 472px;
+  border-radius:24px;  
+  padding: 80px ; 240px ;
+  margin-left:-380px;
+  margin-top:-90px;
+}
+ 
+.nume{
+   padding: 60px;20px;60px;20px;
+   width: 1320px;
+   height:100px;
+  gap:40px;
+  margin-top:-235px;
+  margin-left:170px ;
+ background:  rgba(11, 1, 33, 1);
+    
+}
+.cof{
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 130px;
+    letter-spacing: 0;
+    width: 664px;
+    height: 90px;
+    color:rgba(255, 255, 255, 0.8);
+    margin-top: -105px;
+    margin-left: -150px;
+    
+}
+.foo{
+    margin-left: -554px;
+    margin-top:  -65px;
+    padding: 40px ;368px ;0px ;368px;
+    background:  rgba(11, 1, 33, 1);
+    width: 1360px;
+}
+.mim{
+    background:  rgba(11, 1, 33, 1);
+  margin-left: 170px;
+  margin-top: -70px;
+}
+.umo{
+    padding: 60px ;20px ; 60px ; 20px ;
+    height: 500px;
+    width: 1320px;
+    background:  rgba(11, 1, 33, 1);
+    margin-top:-5px;
+    margin-left:170px;
+}
+
+.umoy {
+    padding: 60px ;20px ; 60px ; 20px ;
+    height: 560px;
+    width: 1320px;
+    background:  rgba(11, 1, 33, 1);
+    margin-top:-5px;
+    margin-left:170px; 
+    font-family : 'Montserrat' 
+}
+.umoy h1 ,h3 , ul {
+    color: white;
+    padding-left: 144px;
+}
+.umoy p{
+    weight:300px;
+    font-style: light;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing:-1% ;
+    color: #ffffff;
+    padding-left: 144px;
+    opacity: 0.5;
+}
+
+.luck 
+    {
+        margin-left: 365px;
+        margin-top: -600px;
+        float: left;
+        padding-left: 350px;
+        padding-top: -800px;
+    }
+    .amy{
+     margin-left: -1200px;
+       float: right;
+       margin-top: -300px;
+       opacity: 0.8;
+    }
+    .body{
+    background:  rgba(11, 1, 33, 1);
+    }
+   
+.footer{
+    font-family: Montserrat;
+font-weight: 300;
+font-style: Light;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 100%;
+letter-spacing: -1%;
+vertical-align: middle;
+margin-left: 385px;
+margin-top: -300px;
+color: #ECECEC;
+opacity: 0.3;
+}
